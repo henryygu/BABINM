@@ -2,7 +2,7 @@
 baseurl: "https://henryygu.github.io/BABINM/"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
-google_analytics: "UA-46465113-2"
+#google_analytics: "UA-46465113-2"
 
 # UI configs
 title: "Born and Bread in New Malden"
