@@ -10,7 +10,7 @@ subtitle: "Cakes for Any Occasion"
 author: "Ram Patra"
 header:
  title: "Born and Bread in New Malden"
- subtitle: "by Ram Patra"
+ #subtitle: "by Ram Patra"
 footer:
  name: "Hey there, we are Born and Bread in New Malden"
  bio: "We love making cakes"
